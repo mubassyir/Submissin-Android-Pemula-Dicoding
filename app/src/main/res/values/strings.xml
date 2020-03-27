@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MySubmission</string>
+    <string name="profile">About</string>
+    <string name="with_cardview">with cardview</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+    <string name="location">location</string>
+    <string name="detail">detail</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="email">amubassyir@gmail.com</string>
+    <string name="profile_description">HIi There, My name Is Ahmad Mubassyir, I am begineer
+        android developer.  this is my first simple application.</string>
+    <string name="val_major">Pendidikan Teknik Elektronika</string>
+    <string name="major">Major :</string>
+    <string name="val_age">26 Years old</string>
+    <string name="ages">Ages :</string>
+    <string name="val_name">Ahmad Mubassyir</string>
+</resources>
